@@ -1,0 +1,12 @@
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\bin\Debug\net6.0\PostgreSqlExample.Data.deps.json
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\bin\Debug\net6.0\PostgreSqlExample.Data.dll
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\bin\Debug\net6.0\PostgreSqlExample.Data.pdb
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.csproj.AssemblyReference.cache
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.AssemblyInfoInputs.cache
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.AssemblyInfo.cs
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.csproj.CoreCompileInputs.cache
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.dll
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\refint\PostgreSqlExample.Data.dll
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\PostgreSqlExample.Data.pdb
+C:\Users\EDA NUR\source\repos\tasinmaz\PostgreSqlExample.Data\obj\Debug\net6.0\ref\PostgreSqlExample.Data.dll
